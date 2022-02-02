@@ -31,9 +31,9 @@ input[type=text], [type=email] {
     border: 3px dashed #0000ff;
 }
 
-/* div p {
+div p {
     font-size: 30px
-} */
+}
 
 input[type=email] {
     background: #808080;
